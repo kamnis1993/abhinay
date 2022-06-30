@@ -64,4 +64,6 @@ jobs:
             --exit \
             --verbose \
             --check-images \
+            #--level critical
             --level critical
+
